@@ -55,7 +55,7 @@
 		5BEABF0E281D2B7C0019330E /* SetCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetCard.swift; sourceTree = "<group>"; };
 		5BEABF10281D30760019330E /* Deck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deck.swift; sourceTree = "<group>"; };
 		5BEABF1B281D87FA0019330E /* SetGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetGame.swift; sourceTree = "<group>"; };
-		5BEABF20281D98DC0019330E /* ManageButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ManageButtonsView.swift; path = "/Users/s.zlobin/Desktop/Edu2/Program. Assignment/P4 (set)/Set No Extra/Set/View/ManageButtonsView.swift"; sourceTree = "<absolute>"; };
+		5BEABF20281D98DC0019330E /* ManageButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ManageButtonsView.swift; path = "/Users/zlobins/Desktop/Edu2/P4_Set-No-Extra-/Set/View/ManageButtonsView.swift"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
